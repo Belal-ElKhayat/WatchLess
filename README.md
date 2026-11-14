@@ -10,7 +10,7 @@ Turns a video's transcript into a clean, structured summary — a TL;DR, key poi
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-34d399?style=flat-square)
 
-<img src="docs/photo.png" width="100%" alt="WatchLess screenshot" />
+<img src="docs/Photo.png" width="100%" alt="WatchLess screenshot" />
 
 </div>
 
